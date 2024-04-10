@@ -1,5 +1,5 @@
 ### Hellooo, Visitor !👋 Welcome To My GitHub!! 반가워요
-I am a Software Engineer, graduated From Rutgers University - New Brunswick with Computer Science Degree 🧑‍🎓 <br />
+I am a Software Engineer, graduated From Rutgers University-New Brunswick with Computer Science Degree 🧑‍🎓 <br />
 Currently Looking for Entry Level Position! 🏢 <br />
 I Specialize in Software Engineering, Application Development, and Web Development! 🖥️ 📱 <br />
 <br />
